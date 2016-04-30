@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioanniscalvinio14calvgoog_0542.png"; bbox 0 0 1725 1698; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 636 654 1061 692">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 636 654 1061 692">
+     <span class='ocr_line' id='line_1_1' title="bbox 636 654 1061 692; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 636 658 781 692; x_wconf 85' lang='lat' dir='ltr'>ACTES</span> <span class='ocrx_word' id='word_1_2' title='bbox 800 658 869 692; x_wconf 94' lang='lat' dir='ltr'>DU</span> <span class='ocrx_word' id='word_1_3' title='bbox 886 654 1061 692; x_wconf 85' lang='lat' dir='ltr'>PROCES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 471 739 1231 761">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 471 739 1231 761">
+     <span class='ocr_line' id='line_1_2' title="bbox 471 739 1231 761; baseline 0.001 -1"><span class='ocrx_word' id='word_1_4' title='bbox 471 739 574 761; x_wconf 65' lang='lat' dir='ltr'>mmm</span> <span class='ocrx_word' id='word_1_5' title='bbox 586 743 634 761; x_wconf 71' lang='lat' dir='ltr'>PAR</span> <span class='ocrx_word' id='word_1_6' title='bbox 645 743 735 760; x_wconf 78' lang='lat' dir='ltr'>GALVIN</span> <span class='ocrx_word' id='word_1_7' title='bbox 745 743 776 760; x_wconf 78' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_8' title='bbox 786 743 831 760; x_wconf 77' lang='lat' dir='ltr'>LES</span> <span class='ocrx_word' id='word_1_9' title='bbox 842 743 936 761; x_wconf 67' lang='lat' dir='ltr'>AUTRES</span> <span class='ocrx_word' id='word_1_10' title='bbox 947 743 1078 761; x_wconf 60' lang='lat' dir='ltr'><strong>mmmmm</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1089 743 1121 761; x_wconf 78' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_12' title='bbox 1133 739 1231 761; x_wconf 67' lang='lat' dir='ltr'>GENEVE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 604 810 1098 842">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 604 810 1098 842">
+     <span class='ocr_line' id='line_1_3' title="bbox 604 810 1098 842; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 604 818 628 842; x_wconf 82' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 641 810 777 842; x_wconf 65' lang='lat' dir='ltr'>mom:</span> <span class='ocrx_word' id='word_1_15' title='bbox 790 817 918 842; x_wconf 76' lang='lat' dir='ltr'>BOLsEc</span> <span class='ocrx_word' id='word_1_16' title='bbox 931 817 979 842; x_wconf 83' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_17' title='bbox 992 817 1098 842; x_wconf 81' lang='lat' dir='ltr'>PARIS.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
